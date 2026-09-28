@@ -1,36 +1,55 @@
-# CodSoft Python Programming Internship
+# CODSOFT Python Programming Internship
 
 This repository contains the projects completed during my Python Programming Internship at CodSoft.
 
-## Task 1 - To-Do List Application
+## Tasks Completed
 
-The To-Do List Application is a command-line based Python project developed as part of the CodSoft Python Programming Internship.
+### Task 1 – To-Do List Application
+A command-line To-Do List application developed using Python.
 
-The application helps users create and manage their daily tasks efficiently.
-
-## Features
-
-- Add new tasks
-- View all tasks
-- Update existing tasks
+**Features:**
+- Add tasks
+- View tasks
+- Update tasks
 - Mark tasks as completed
 - Delete tasks
-- Input validation
-- Exception handling
-- Simple command-line interface
+- Exit the application
+
+### Task 2 – Simple Calculator
+A Python-based calculator that performs basic arithmetic operations.
+
+**Features:**
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User input for numbers and operations
+
+### Task 3 – Rock-Paper-Scissors Game
+A Python-based Rock-Paper-Scissors game where the user plays against the computer.
+
+**Features:**
+- User selects Rock, Paper, or Scissors
+- Computer generates a random choice
+- Determines the winner
+- Displays the result
+- Tracks scores
+- Allows multiple rounds
+- Play-again option
 
 ## Technologies Used
 
-- Python 3
-- Visual Studio Code
+- Python
+- VS Code
+- Git
+- GitHub
 
-## How to Run
+## Internship
 
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder in Visual Studio Code.
-4. Open the terminal.
-5. Run the following command:
+**Organization:** CodSoft  
+**Domain:** Python Programming  
+**Internship:** Python Programming Internship
 
-```bash
-python Task1_ToDo_list/todo_list.py
+---
+
+Thank you for visiting my repository!
